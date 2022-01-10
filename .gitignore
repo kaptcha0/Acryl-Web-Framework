@@ -1,5 +1,4 @@
 target/
 
-## replit
-./replit.nix
-./.replit
+replit.nix
+.replit
