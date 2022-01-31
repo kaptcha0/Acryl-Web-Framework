@@ -1,4 +1,9 @@
+## compiled output
 target/
+logs/
+Cargo.lock
 
+## replit files
 replit.nix
 .replit
+replit-startup.sh

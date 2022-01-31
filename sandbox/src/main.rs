@@ -1,3 +1,5 @@
+use acryl::{ acryl, protocols::http::Http };
+
 fn main() {
-    println!("Hello, world!");
+	acryl::<Http>(None).start();
 }
